@@ -1,2 +1,5 @@
-To use this course you have to install Jupyter Notebook 
-<h1> ggg </h1>
+If your main OS is Windows follow instructions presented in Guide.pptx or Guide.pdf about obtaining Anaconda3. 
+I choose this distribution of Python because it alredy contains useful scientific libraries like numpy, matplotlib and scipy.
+But in order to use all learning material used during this project, you should also install machine learning library Tensorflow which will be core of practically each lesson in later parts. You can read about one possible way of installing Tensorflow directly into Anaconda in the same Guide.pptx or Guide.pdf
+After executing all instructions, you can finally open and fullu use Jupyter notebooks, which will be main form of workbooks, which will contain notes of lesson, interactive material and real working programs!
+You can open Jupyter notebook by clicking Jupyter notebook in Start Menu or typing "jupyter notebook" in any command line. After that, default browser will open and you can view all Jupyter notebooks which will be in User directory. If you want to work with Jupyter notebooks which will be uploaded after each lesson, you should save them at your User directory.
