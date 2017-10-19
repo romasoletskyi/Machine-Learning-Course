@@ -7,6 +7,7 @@ Tensorflow site: https://www.tensorflow.org
 If your main OS is Linux or Mac, just download Anaconda from Anaconda site https://anaconda.org for your current OS. Then partly follow Guide.pdf on installing Anaconda and running Anaconda Prompt. After that, type following text into Prompt to install Tensorflow directly into [Root] Anaconda environment:
 pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.3.0-cp36-cp36m-linux_x86_64.whl
 If you still have some problems with installing, follow instructions on https://www.tensorflow.org/install/. 
+
 NOTE: for later use of Tensorflow in Jupyter Notebook without additional headache you should skip creating and envoking environment (tensorflow) and install it in default environment by typing in Anaconda Prompt something approximate to lines above.
 
 After executing all instructions, you can finally open and fully use Jupyter notebooks, which will be main form of workbooks containing notes of lesson, interactive material and real working programs! You can open Jupyter notebook by clicking Jupyter notebook in Start Menu or typing "jupyter notebook" in any command line. After that, default browser will open and you can view all Jupyter notebooks which will be in User directory. If you want to work with Jupyter notebooks which will be uploaded after each lesson, you should save them at your User directory.
