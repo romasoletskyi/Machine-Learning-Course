@@ -1,0 +1,3 @@
+There are stored Python modules which are specially written for that course. They already include
+1. math_lib - module for work with Python lists
+2. opt_lib - module which includes different optimizing algorithms
