@@ -1,0 +1,2 @@
+First half of this lecture is about simulated annealing - method of optimization which can solve both discrete and continuous optimization problems.
+Second half is about how to use libraries and modules in Python. Then 4 common in this course libraries: time, math, random and matplotlib are described.
