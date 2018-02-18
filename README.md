@@ -17,4 +17,4 @@ All lectures are uploaded online on Youtube in playlist [Artificial intelligence
 2. Click button "Raw", which opens raw code of Jupyter notebook
 3. Right-click with the mouse and choose "Save as" or just press "Ctrl+S"
 4. Delete .txt extension. Name of file should become "name.ipynb"
-5. Choose desired directory ans save
+5. Choose desired directory and save
