@@ -1,3 +1,4 @@
 There are stored Python modules which are specially written for that course. They already include
 1. math_lib - module for work with Python lists
 2. opt_lib - module which includes different optimizing algorithms
+3. neural_net_lib - module which includes class describing feedforward neural network
