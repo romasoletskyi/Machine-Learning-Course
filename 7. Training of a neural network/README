@@ -1,0 +1,2 @@
+This lecture shows how to train neural network on a real data in each detail. Also, this lecture introduces machine learning library Keras, which can be installed on your Anaconda through typing in a command line or Anaconda Prompt "conda install -c conda-forge keras".
+This repository contains already trained weights for NeuralNet class and Keras ("model_1.p" and "keras_model.h5").
