@@ -6,6 +6,7 @@ Course in machine learning for students of Richelie Lyceum, which already consis
 4. Simulated annealing. Libraries in Python.
 5. Partial derivative. Gradient descent.
 6. Feedforward neural network. Backpropagation.
+7. Training of a neural network
 
 Lectures 1-5 are about basics of Python, required calculus, and algorithms of optimization for different tasks.
 Lectures 6- are about neural networks and their applications.
